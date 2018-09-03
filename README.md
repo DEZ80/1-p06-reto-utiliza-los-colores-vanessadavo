@@ -5,7 +5,8 @@ Copia más abajo tus programas, cada uno en su parte del reto.
 
 ## Actividad 1: Pixel Rojo
 ```
-3E 88 32 00 C0 18 FE```
+3E 88 32 00 C0 18 FE
+```
 PC: 4000
 
 ## Actividad 2: Pixel Cian
